@@ -95,7 +95,3 @@ mvn rewrite:run -Dmaven.test.skip=true
 ```bash
 mvn clean package -Dmaven.test.skip=true
 ```
-
-## 示例项目
-
-http://172.16.100.5/root/witparking.pc-2.0/blob/dev_code_pretty/pom.xml
