@@ -46,7 +46,7 @@ mvn clean install -Dmaven.test.skip=true
         <dependency>
             <groupId>com.ilaotan</groupId>
             <artifactId>uncomment</artifactId>
-            <version>1.0.0-SNAPSHOT</version>
+            <version>1.0.0</version>
         </dependency>
         <dependency>
             <groupId>org.openrewrite</groupId>
